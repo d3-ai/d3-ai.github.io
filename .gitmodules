@@ -1,0 +1,3 @@
+[submodule "themes/northendlab-light"]
+	path = themes/northendlab-light
+	url = https://github.com/gethugothemes/northendlab-light
