@@ -1,3 +1,126 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+############################ Default configuration #########################
+baseURL = "https://d3-ai.github.io/"
+languageCode = "ja"
+title = "D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤の創出"
+description = "D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤の創出"
+theme = "northendlab-light"
+
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+[taxonomies]
+category = 'categories'
+tag = "tags"
+
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "research"
+name = "研究課題"
+weight = 1
+
+[[menu.main]]
+URL = "member"
+name = "メンバ"
+weight = 2
+
+[[menu.main]]
+URL = "publication"
+name = "研究業績"
+weight = 3
+
+[[menu.main]]
+URL = "recruit"
+name = "求人情報"
+weight = 4
+
+[[menu.main]]
+URL = "link"
+name = "関連リンク"
+weight = 5
+
+# footer menu
+#[[menu.footer]]
+#URL = "contact"
+#name = "Contact"
+#weight = 1
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "TOP"
+# logo
+logo = "images/d3-ai-logo.png"
+# meta data
+author = "JST-CREST D3-AI Project"
+#description = "This is meta description"
+# google tag manager
+#google_tag_manager = "" # your id
+# contact form action
+#contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2021 JST-CREST D3-AI Project All Rights Reserved (This page is created by [Hugo](https://gohugo.io/) and [Northendlab Light](https://github.com/gethugothemes/northendlab-light))"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+####################### banner #######################################
+[params.banner]
+title = "D3-AI: <br> 多様性と環境変化に寄り添う分散機械学習基盤の創出"
+bgImage = "images/banner/banner-bg.svg"
+image = "images/banner/illustration.svg"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+link = "#"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "https://github.com/d3-ai"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+link = "#"
