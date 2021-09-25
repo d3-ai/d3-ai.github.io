@@ -63,15 +63,20 @@ name = "求人情報"
 weight = 4
 
 [[menu.main]]
-URL = "link"
-name = "関連リンク"
+URL = "contact"
+name = "問合せ"
 weight = 5
 
+[[menu.main]]
+URL = "link"
+name = "関連リンク"
+weight = 6
+
 # footer menu
-#[[menu.footer]]
-#URL = "contact"
-#name = "Contact"
-#weight = 1
+[[menu.footer]]
+URL = "contact"
+name = "D3-AIプロジェクトへのお問い合わせ"
+weight = 1
 
 
 ######################### Default Parameters ###########################
