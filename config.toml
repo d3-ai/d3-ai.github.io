@@ -93,7 +93,7 @@ author = "JST-CREST D3-AI Project"
 # contact form action
 #contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2021 JST-CREST D3-AI Project All Rights Reserved (This page is created by [Hugo](https://gohugo.io/) and [Northendlab Light](https://github.com/gethugothemes/northendlab-light))"
+copyright = "&copy; 2021 JST-CREST D3-AI Project All Rights Reserved (This page is created by [Hugo](https://gohugo.io/) and [Northendlab Light](https://github.com/takasehideki/northendlab-light))"
 
 # preloader
 [params.preloader]
