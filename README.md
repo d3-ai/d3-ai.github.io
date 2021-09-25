@@ -6,6 +6,7 @@ D3-AIプロジェクトのWebサイトの管理用リポジトリ
 - [GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)
 - [Hugo](https://gohugo.io/)
 - Huge theme: [Northendlab Light](https://github.com/gethugothemes/northendlab-light)
+  - [forkしてチューニングしたもの](https://github.com/takasehideki/northendlab-light)を利用している（予定）
 
 ## Webサイト管理方法の雑な説明
 
