@@ -1,3 +1,4 @@
 [submodule "themes/northendlab-light"]
 	path = themes/northendlab-light
 	url = https://github.com/takasehideki/northendlab-light
+	branch = d3-ai
