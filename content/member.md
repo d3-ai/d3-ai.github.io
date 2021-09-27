@@ -1,8 +1,6 @@
 ---
 title: "プロジェクトメンバ | D3-AI"
 description: "D3-AIプロジェクトを推進するメンバを紹介します"
-date: 2021-09-24T19:07:25+09:00
-draft: false
 layout: page
 ---
 

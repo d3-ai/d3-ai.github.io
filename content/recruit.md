@@ -1,8 +1,6 @@
 ---
 title: "求人情報 | D3-AI"
 description: "D3-AIプロジェクトでは，特任研究員やプロジェクトに参画いただける研究者や募集しています．"
-date: 2021-09-24T19:07:25+09:00
-draft: false
 layout: page
 ---
 
