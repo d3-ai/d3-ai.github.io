@@ -67,7 +67,7 @@ parent = "news"
 weight = 2
 
 [[menu.main]]
-URL = "member"
+URL = "members"
 name = "メンバ"
 weight = 3
 
