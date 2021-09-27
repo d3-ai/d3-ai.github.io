@@ -48,8 +48,22 @@ name = "研究課題"
 weight = 1
 
 [[menu.main]]
-URL = "news"
+identifier = "news"
 name = "お知らせ"
+weight = 2
+
+[[menu.main]]
+URL = "news"
+identifier = "list"
+name = "一覧"
+parent = "news"
+weight = 1
+
+[[menu.main]]
+URL = "/categories/イベント"
+identifier = "event"
+name = "イベント"
+parent = "news"
 weight = 2
 
 [[menu.main]]
