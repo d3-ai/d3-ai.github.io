@@ -5,7 +5,7 @@ D3-AIプロジェクトのWebサイトの管理用リポジトリ
 
 - [GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)
 - [Hugo](https://gohugo.io/)
-- Huge theme: [Northendlab Light](https://github.com/gethugothemes/northendlab-light)
+- Hugo theme: [Northendlab Light](https://github.com/gethugothemes/northendlab-light)
   - [forkしてチューニングしたもの](https://github.com/takasehideki/northendlab-light)を利用している
 
 ## Webサイト管理方法の雑な説明
@@ -16,6 +16,20 @@ D3-AIプロジェクトのWebサイトの管理用リポジトリ
 $ brew install hugo
 $ git clone --recursive https://github.com/d3-ai/d3-ai.github.io.git
 ```
+
+#### FYI
+
+ナカノヒトの環境：
+
+```bash
+$ hugo env
+hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
+GOOS="darwin"
+GOARCH="amd64"
+GOVERSION="go1.17"
+```
+
+Ubuntu 18.04での `apt-get install hugo` だと古いバージョンになるとのこと．詳細と対処方法は [#21](https://github.com/d3-ai/d3-ai.github.io/issues/21) を参照のこと．
 
 ### ローカルでのプレビュー
 
