@@ -142,15 +142,13 @@ image = "images/banner/bigpicture.png"
 
 
 ############################## Social Site ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+### NOTE: do not use these info: see themes/northendlab-light/layouts/partials/footer.html
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/intent/tweet?&url=http://d3-ai.github.io&text=D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤の創出"
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fd3-ai.github.io&t=D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤の創出"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "https://github.com/d3-ai"
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
