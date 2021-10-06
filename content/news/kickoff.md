@@ -4,7 +4,7 @@ date = 2021-09-27T09:48:14+09:00
 categories = ["News", "arch", "theory", "IoT", "data", "イベント"]
 tags = ["news", "arch", "theory", "IoT", "data"]
 type = "post"
-draft = false
+draft = true
 +++
 
 D3-AIプロジェクトのキックオフイベントを開催します．

@@ -2,7 +2,7 @@
 title: "研究業績 | D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤の創出"
 description: "D3-AIプロジェクトの研究成果や発表実績を紹介します"
 layout: page
-toc: true
+draft: true
 ---
 
 ## 研究業績

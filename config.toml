@@ -52,49 +52,49 @@ identifier = "news"
 name = "お知らせ"
 weight = 2
 
-[[menu.main]]
-URL = "news"
-identifier = "list"
-name = "一覧"
-parent = "news"
-weight = 1
+#[[menu.main]]
+#URL = "news"
+#identifier = "list"
+#name = "一覧"
+#parent = "news"
+#weight = 1
 
-[[menu.main]]
-URL = "/categories/イベント"
-identifier = "event"
-name = "イベント"
-parent = "news"
-weight = 2
+#[[menu.main]]
+#URL = "/categories/イベント"
+#identifier = "event"
+#name = "イベント"
+#parent = "news"
+#weight = 2
 
 [[menu.main]]
 URL = "members"
 name = "メンバ"
 weight = 3
 
-[[menu.main]]
-URL = "publication"
-name = "研究業績"
-weight = 4
+#[[menu.main]]
+#URL = "publication"
+#name = "研究業績"
+#weight = 4
 
-[[menu.main]]
-URL = "showcase"
-name = "ショーケース"
-weight = 5
+#[[menu.main]]
+#URL = "showcase"
+#name = "ショーケース"
+#weight = 5
 
-[[menu.main]]
-URL = "recruit"
-name = "求人情報"
-weight = 6
+#[[menu.main]]
+#URL = "recruit"
+#name = "求人情報"
+#weight = 6
 
 [[menu.main]]
 URL = "contact"
 name = "問合せ"
 weight = 7
 
-[[menu.main]]
-URL = "link"
-name = "関連リンク"
-weight = 8
+#[[menu.main]]
+#URL = "link"
+#name = "関連リンク"
+#weight = 8
 
 # footer menu
 [[menu.footer]]
