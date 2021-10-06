@@ -12,7 +12,7 @@ layout: page
 
 - ◎[高前田 伸也](/member/shinya-takamaeda)（東京大学 大学院情報理工学系研究科 准教授）
 - ◯[吉岡 健太郎](/member/kentaro-yoshioka)（慶應義塾大学 理工学部 電気情報工学科 専任講師）
-- Jaehoon Yu（東京工業大学 科学技術創成研究院 准教授）
+- [劉 載勲](/member/jaehoon-yu)（東京工業大学 科学技術創成研究院 准教授）
 
 ## 理論基盤班
 
