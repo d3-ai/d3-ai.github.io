@@ -31,6 +31,8 @@ GOVERSION="go1.17"
 
 Ubuntu 18.04での `apt-get install hugo` だと古いバージョンになるとのこと．詳細と対処方法は [#21](https://github.com/d3-ai/d3-ai.github.io/issues/21) を参照のこと．
 
+Windowsでのhugoインストールについても[#21](https://github.com/d3-ai/d3-ai.github.io/issues/21) に記載しました。
+
 ### ローカルでのプレビュー
 
 ```bash
