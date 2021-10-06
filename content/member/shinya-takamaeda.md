@@ -1,5 +1,5 @@
 +++
-title = "高前田 伸也 | D3-AIプロジェクト 研究代表者"
+title = "高前田 伸也 | D3-AIプロジェクト メンバ"
 image = "/images/member/shinya-takamaeda.jpg"
 categories = ["arch"]  # ["arch", "theory", "IoT", "data"]
 +++

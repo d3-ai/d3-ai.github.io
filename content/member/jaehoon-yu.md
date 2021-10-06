@@ -1,5 +1,5 @@
 +++
-title = "劉 載勲 | D3-AIプロジェクト 研究参加者"
+title = "劉 載勲 | D3-AIプロジェクト メンバ"
 image = "/images/member/jaehoon-yu.jpg"
 categories = ["arch"]  # ["arch", "theory", "IoT", "data"]
 +++
