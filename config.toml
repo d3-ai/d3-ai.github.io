@@ -136,9 +136,9 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 title = "D3-AI: 多様性と環境変化に寄り添う分散機械学習基盤の創出"
-#bgImage = "images/banner/banner-bg.svg"
-#image = "images/banner/illustration.svg"
-image = "images/banner/bigpicture.png"
+bgImage = "images/banner/banner-bg.svg"
+image = "images/banner/illustration.svg"
+#image = "images/banner/bigpicture.png"
 
 
 ############################## Social Site ##########################
