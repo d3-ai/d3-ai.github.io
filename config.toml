@@ -10,6 +10,9 @@ paginate = "5"
 # post excerpt
 summaryLength = "10"
 
+# Google Analytics Tracking ID
+googleAnalytics = "UA-209791643-1"
+
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 
