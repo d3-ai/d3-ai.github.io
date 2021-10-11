@@ -13,7 +13,7 @@ categories = ["IoT"]  # ["arch", "theory", "IoT", "data"]
 {{< rawhtml >}}
 <ul class="list-inline social-icon mb-0">
   <li class="list-inline-item"><a href="http://www.ertpf.ics.saitama-u.ac.jp/" target="_blank"><i class="ti-link"></i></a></li>
-  <li class="list-inline-item"><a href="https://github.com/aztk target="_blank"><i class="ti-github"></i></a></li>
+  <li class="list-inline-item"><a href="https://github.com/aztk" target="_blank"><i class="ti-github"></i></a></li>
    <!--
   <li class="list-inline-item"><a href="https://twitter.com/" target="_blank"><i class="ti-twitter-alt"></i></a></li>
   <li class="list-inline-item"><a href="https://facebook.com/" target="_blank"><i class="ti-facebook"></i></a></li>
