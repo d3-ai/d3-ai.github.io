@@ -85,10 +85,10 @@ weight = 3
 #name = "ショーケース"
 #weight = 5
 
-#[[menu.main]]
-#URL = "recruit"
-#name = "求人情報"
-#weight = 6
+[[menu.main]]
+URL = "recruit"
+name = "求人情報"
+weight = 6
 
 [[menu.main]]
 URL = "contact"
