@@ -12,7 +12,7 @@ categories = ["IoT"]  # ["arch", "theory", "IoT", "data"]
 
 {{< rawhtml >}}
 <ul class="list-inline social-icon mb-0">
-  <li class="list-inline-item"><a href="https://www.tlk-emb.jp" target="_blank"><i class="ti-link"></i></a></li>
+  <li class="list-inline-item"><a href="https://takasehideki.github.io/" target="_blank"><i class="ti-link"></i></a></li>
   <li class="list-inline-item"><a href="https://twitter.com/takasehideki" target="_blank"><i class="ti-twitter-alt"></i></a></li>
   <li class="list-inline-item"><a href="https://facebook.com/takasehideki" target="_blank"><i class="ti-facebook"></i></a></li>
   <li class="list-inline-item"><a href="https://github.com/takasehideki" target="_blank"><i class="ti-github"></i></a></li>
@@ -27,7 +27,7 @@ categories = ["IoT"]  # ["arch", "theory", "IoT", "data"]
 2018年10月から2022年3月には科学技術振興機構 さきがけ研究者を兼任．
 
 組込み／IoT／ロボットシステムのプラットフォーム最適化技術やシステムレベル設計方法論の研究に従事．
-最近の強い興味は，関数型言語ElixirおよびIoTフレームワークNervesによるIoTシステムの包括設計，ロボットシステム開発プラットフォームROS 2の組込みデバイス向け軽量実行環境など．
+最近の強い興味は，関数型言語ElixirおよびIoTフレームワークNervesによるIoTシステムの包括設計，ロボットシステム開発プラットフォームROS 2の組込みデバイス向け軽量実行環境[mROS 2](https://github.com/mROS-base/mros2)など．
 [ROS Japan Users Group (rosjp)](https://rosjp.connpass.com/)や[NervesJP](https://nerves-jp.connpass.com/)などの技術コミュニティでも積極的に活動中．
 
 
