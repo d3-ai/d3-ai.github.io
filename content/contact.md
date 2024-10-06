@@ -7,13 +7,15 @@ layout: page
 ## お問い合わせ
 
 D3-AIプロジェクトに興味を持っていただきありがとうございます．  
-メールまたはGoogle Formsより問合せ内容をお知らせください．
+Google Formsより問合せ内容をお知らせください．
 
+<!--
 ### メールでのお問い合わせ
 
 ```
 d3-ai-contact[at]casys.is.s.u-tokyo.ac.jp
 ```
+-->
 
 ### Google Formsでのお問い合わせ
 
