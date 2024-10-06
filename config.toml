@@ -75,10 +75,10 @@ URL = "members"
 name = "メンバ"
 weight = 3
 
-#[[menu.main]]
-#URL = "publication"
-#name = "研究業績"
-#weight = 4
+[[menu.main]]
+URL = "publication"
+name = "研究業績"
+weight = 4
 
 #[[menu.main]]
 #URL = "showcase"
